@@ -8,10 +8,7 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 
 ### 🚀 About Me
 - 🎓 Studying **Artificial Intelligence** at ENSIA
-- 💻 Passionate about **Data Structures & Algorithms, Probability, and Computer Architecture**
-- 🌱 Currently learning **Operating Systems, Theory of Computation, and Statistical Inference**
 - 🔬 Interested in **Machine Learning, Competitive Programming, and Software Development**
-- ✨ Building my **portfolio website**
 
 ---
 
@@ -27,9 +24,9 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ---
 
 ### 📌 My Projects
-- 🔹 [My Portfolio Website](#) *(Coming soon!)*
+- 🔹 [My Portfolio Website](#)  *(Coming soon!)*
 - 🔹 [Artiphia](https://github.com/ENSIA-AI/Art-phia)
-- 🔹 [ArgiGenius](https://github.com/ayaaa321/AI-project)*(will completed very soon)*
+- 🔹 [ArgiGenius](https://github.com/ayaaa321/AI-project) *(will completed very soon)*
 
 ---
 
@@ -39,7 +36,7 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ---
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leena.ikhlef@ensia.edu.dz)
 
 ---
 
