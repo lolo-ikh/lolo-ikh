@@ -1,4 +1,4 @@
-### Hi there, I'm Lolo! 👋
+### Hi there, I'm Leena! 👋
 
 💡 **AI Student | C++ Enthusiast | Math Lover**
 
