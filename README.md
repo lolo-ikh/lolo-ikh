@@ -21,7 +21,6 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 📊 **Weekly Coding Stats**
 <!--START_SECTION:waka-->
 ```text
@@ -29,7 +28,6 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 🌆 Daytime     ██████░░░░░░░░░░░░░░░░░░   25% 
 🌃 Evening     ████░░░░░░░░░░░░░░░░░░░░   15% 
 🌙 Night       ██░░░░░░░░░░░░░░░░░░░░░░   10%
-<!--END_SECTION:waka-->
 
 ---
 
