@@ -22,6 +22,16 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+📊 **Weekly Coding Stats**
+<!--START_SECTION:waka-->
+```text
+🌞 Morning     █████████████░░░░░░░░░░░   50% 
+🌆 Daytime     ██████░░░░░░░░░░░░░░░░░░   25% 
+🌃 Evening     ████░░░░░░░░░░░░░░░░░░░░   15% 
+🌙 Night       ██░░░░░░░░░░░░░░░░░░░░░░   10%
+<!--END_SECTION:waka-->
+
+---
 
 ### 📌 My Projects
 - 🔹 [My Portfolio Website](https://github.com/lolo-ikh/portfolio-)
