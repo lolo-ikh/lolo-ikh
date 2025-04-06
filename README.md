@@ -24,7 +24,7 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ---
 
 ### 📌 My Projects
-- 🔹 [My Portfolio Website]([#](https://github.com/lolo-ikh/portfolio)) 
+- 🔹 [My Portfolio Website](https://github.com/lolo-ikh/portfolio)
 - 🔹 [Artiphia](https://github.com/ENSIA-AI/Art-phia)
 - 🔹 [ArgiGenius](https://github.com/ayaaa321/AI-project) *(will be completed very soon)*
 
