@@ -31,7 +31,7 @@ I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, an
 ---
 
 ### 📊 GitHub Stats
-![Lolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
+![Lolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolo-ikh&show_icons=true&theme=tokyonight)
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leena.ikhlef@ensia.edu.dz)
