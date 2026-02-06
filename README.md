@@ -21,6 +21,9 @@
 ---
 
 ### ACTIVITY & ACHIEVEMENTS
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=lolo-ikh&theme=dracula&column=3&row=1&margin-w=8&margin-h=8" alt="trophy graph" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lolo-ikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
