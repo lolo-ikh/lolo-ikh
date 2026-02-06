@@ -9,7 +9,7 @@
 
 ---
 
-### THE PROFILE
+### ABOUT ME
 
 * **AI & Data Science**
   Applying Machine Learning and Data Mining techniques while currently diving deep into the world of Deep Learning.
