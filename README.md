@@ -1,40 +1,63 @@
-### Hi there, I'm Leena! 👋
+<h1 align="center">LEENA IKHLEF</h1>
+<p align="center">AI Engineering Student at ENSIA | Full-Stack Developer | Security Enthusiast</p>
 
-💡 **AI Student | C++ Enthusiast | Math Lover**
+###
 
-I'm an AI student at **ENSIA**, passionate about problem-solving, algorithms, and building cool projects. I love coding in **C++** and exploring the world of AI and Computer Science!
-
----
-
-### 🚀 About Me
-- 🎓 Studying **Artificial Intelligence** at ENSIA
-- 🔬 Interested in **Machine Learning, Competitive Programming, and Software Development**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,py,react,nodejs,flutter,dart,mongodb,mysql,php,js,html,css,linux,git" alt="my skills" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### THE PROFILE
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### 📌 My Projects
-- 🔹 [My Portfolio Website](https://lolo-ikh.github.io/portfolio-/newhome.html)
-- 🔹 [Artiphia](https://github.com/ENSIA-AI/Art-phia)
-- 🔹 [ArgiGenius](https://agrigenuis.malak-felioune.workers.dev/) 
+* **AI & Data Science**
+  Applying Machine Learning and Data Mining techniques while currently diving deep into the world of Deep Learning.
+* **Security & Logic**
+  Building a foundation in Cybersecurity to understand how to protect the intelligent systems of tomorrow.
+* **Full-Stack Development**
+  Creating cross-platform experiences using React, Flutter, and scalable backend architectures.
 
 ---
 
-### 📊 GitHub Stats
-![Lolo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolo-ikh&show_icons=true&theme=tokyonight)
+### ACTIVITY & ACHIEVEMENTS
 
-### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leena.ikhlef@ensia.edu.dz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leena-ikhlef-5a12b130a/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lolo-ikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolo-ikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-✨ _Feel free to check out my repositories and connect with me!_ 😊
+---
+
+### SELECTED DEPLOYMENTS
+
+**Artiphia**
+A collaborative exploration into generative art and AI integration.
+[View Repository](https://github.com/ENSIA-AI/Art-phia)
+
+**AgriGenius**
+An intelligent platform designed for agricultural optimization and data-driven insights.
+[Explore Project](https://agrigenuis.malak-felioune.workers.dev/)
+
+**The Learning Journey**
+I am constantly documenting my progress through new projects and experiments. 
+[Explore my repositories to see my evolution](https://github.com/lolo-ikh?tab=repositories)
+
+---
+
+### CONNECT
+
+<div align="center">
+  <a href="mailto:leena.ikhlef@ensia.edu.dz">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/leena-ikhlef-5a12b130a/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" alt="linkedin" />
+  </a>
+</div>
+
+---
+
+### SYSTEM LOG
+> "The goal is not just to build models, but to understand the underlying mathematics and security that makes them reliable."
